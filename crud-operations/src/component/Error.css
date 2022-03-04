@@ -1,0 +1,18 @@
+.errorimg{
+    height: 300px;
+    width: 500px;
+    margin-top: -80px;
+}
+.btn-secondary{
+    background-color: black;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.errordiv{
+    background-color: white;
+    height: max-content;
+    width: max-content;
+}
